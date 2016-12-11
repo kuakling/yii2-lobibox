@@ -1,8 +1,6 @@
 <?php
 namespace kuakling\lobibox;
 
-use yii\helpers\Html;
-
 /**
  * \kuakling\lobibox\Notification.
  *
