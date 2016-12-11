@@ -1,6 +1,6 @@
 {
     "name": "kuakling/yii2-lobibox",
-    "description": "Yii2 lobibox modal and notification.",
+    "description": "Yii2 lobibox messagebox and notification.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "MIT",
