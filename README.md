@@ -1,7 +1,7 @@
 # yii2-lobibox
-## (Lobibox)[http://lobianijs.com/]
-### * (Messagebox)[http://lobianijs.com/site/lobibox#messageboxes]
-### * (Notification)[http://lobianijs.com/site/lobibox#notifications]
+(Lobibox)[http://lobianijs.com/]
+* (Messagebox)[http://lobianijs.com/site/lobibox#messageboxes]
+* (Notification)[http://lobianijs.com/site/lobibox#notifications]
 ```
 <?php 
 echo \kuakling\lobibox\Notification::widget([
