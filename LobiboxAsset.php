@@ -10,10 +10,17 @@ use yii\web\AssetBundle;
 class LobiboxAsset extends AssetBundle
 {
     public $sourcePath = '@bower/lobibox/dist';
+    
     public $css = [
         'css/lobibox.min.css',
     ];
+    
     public $js = [
         'js/lobibox.min.js',
+    ];
+    
+    public $depends = [
+        'yii\web\YiiAsset',
+        'yii\bootstrap\BootstrapPluginAsset',
     ];
 }
